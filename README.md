@@ -1,0 +1,1 @@
+This repository demonstrates a common SQL error involving the use of a subquery in the FROM clause.  This syntax is not universally supported across all SQL database systems. The bug.sql file contains the problematic query. The bugSolution.sql file provides alternative solutions using Common Table Expressions (CTEs) and JOINs, ensuring greater database compatibility.
